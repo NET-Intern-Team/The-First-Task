@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IT_DATA\\Working\\TheFirstTask\\",
+  "WorkspaceRootPath": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\thefirsttask\\thefirsttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\git project\\the-first-task\\thefirsttask\\thefirsttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\thefirsttask\\thefirsttask\\controllers\\taskorderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\git project\\the-first-task\\thefirsttask\\thefirsttask\\controllers\\taskorderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\taskorderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\thefirsttask\\thefirsttask\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\git project\\the-first-task\\thefirsttask\\thefirsttask\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\thefirsttask\\thefirsttask\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\git project\\the-first-task\\thefirsttask\\thefirsttask\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\thefirsttask\\thefirsttask\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\git project\\the-first-task\\thefirsttask\\thefirsttask\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\thefirsttask\\thefirsttask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\git project\\the-first-task\\thefirsttask\\thefirsttask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\thefirsttask\\thefirsttask\\model\\taskorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\git project\\the-first-task\\thefirsttask\\thefirsttask\\model\\taskorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\taskorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\thefirsttask\\thefirsttask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|d:\\it_data\\working\\git project\\the-first-task\\thefirsttask\\thefirsttask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,28 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskOrderDetailController.cs",
-              "DocumentMoniker": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
-              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
-              "ToolTip": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
-              "RelativeToolTip": "TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T08:45:54.445Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "TaskOrderDetail.cs",
-              "DocumentMoniker": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Model\\TaskOrderDetail.cs",
+              "DocumentMoniker": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Model\\TaskOrderDetail.cs",
               "RelativeDocumentMoniker": "TheFirstTask\\Model\\TaskOrderDetail.cs",
-              "ToolTip": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Model\\TaskOrderDetail.cs",
+              "ToolTip": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Model\\TaskOrderDetail.cs",
               "RelativeToolTip": "TheFirstTask\\Model\\TaskOrderDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AppDBContext.cs",
-              "DocumentMoniker": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Data\\AppDBContext.cs",
+              "DocumentMoniker": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Data\\AppDBContext.cs",
               "RelativeDocumentMoniker": "TheFirstTask\\Data\\AppDBContext.cs",
-              "ToolTip": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Data\\AppDBContext.cs",
               "RelativeToolTip": "TheFirstTask\\Data\\AppDBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Model\\Order.cs",
+              "DocumentMoniker": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Model\\Order.cs",
               "RelativeDocumentMoniker": "TheFirstTask\\Model\\Order.cs",
-              "ToolTip": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Model\\Order.cs",
+              "ToolTip": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Model\\Order.cs",
               "RelativeToolTip": "TheFirstTask\\Model\\Order.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Model\\Category.cs",
+              "DocumentMoniker": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Model\\Category.cs",
               "RelativeDocumentMoniker": "TheFirstTask\\Model\\Category.cs",
-              "ToolTip": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Model\\Category.cs",
+              "ToolTip": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Model\\Category.cs",
               "RelativeToolTip": "TheFirstTask\\Model\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "TheFirstTask\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAE4AAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Controllers\\OrderController.cs",
               "RelativeToolTip": "TheFirstTask\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAG0AAAAAAAAAAAAqwHEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,14 +120,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Controllers\\ProductController.cs",
               "RelativeToolTip": "TheFirstTask\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T08:45:54.491Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskOrderDetailController.cs",
+              "DocumentMoniker": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "ToolTip": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "RelativeToolTip": "TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:45:54.445Z"
             }
           ]
         }

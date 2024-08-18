@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {}
+    "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {}
   },
   "projects": {
-    "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {
+    "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
+        "projectUniqueName": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
         "projectName": "TheFirstTask",
-        "projectPath": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
+        "projectPath": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
         "packagesPath": "C:\\Users\\THANG\\.nuget\\packages\\",
-        "outputPath": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\obj\\",
+        "outputPath": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\THANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
