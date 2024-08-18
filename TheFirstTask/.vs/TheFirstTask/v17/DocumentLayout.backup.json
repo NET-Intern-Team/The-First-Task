@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|e:\\workspace\\th\u1EF1c t\u1EADp\\firsttask\\thefirsttask\\thefirsttask\\controllers\\taskorderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\taskorderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|e:\\workspace\\th\u1EF1c t\u1EADp\\firsttask\\thefirsttask\\thefirsttask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|e:\\workspace\\th\u1EF1c t\u1EADp\\firsttask\\thefirsttask\\thefirsttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|e:\\workspace\\th\u1EF1c t\u1EADp\\firsttask\\thefirsttask\\thefirsttask\\model\\taskorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\taskorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|e:\\workspace\\th\u1EF1c t\u1EADp\\firsttask\\thefirsttask\\thefirsttask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|e:\\workspace\\th\u1EF1c t\u1EADp\\firsttask\\thefirsttask\\thefirsttask\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|e:\\workspace\\th\u1EF1c t\u1EADp\\firsttask\\thefirsttask\\thefirsttask\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|e:\\workspace\\th\u1EF1c t\u1EADp\\firsttask\\thefirsttask\\thefirsttask\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskOrderDetailController.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "ToolTip": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "RelativeToolTip": "TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:37:51.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskOrderDetail.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Model\\TaskOrderDetail.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Model\\TaskOrderDetail.cs",
+              "ToolTip": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Model\\TaskOrderDetail.cs",
+              "RelativeToolTip": "TheFirstTask\\Model\\TaskOrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:37:32.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Data\\AppDBContext.cs",
+              "ToolTip": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "TheFirstTask\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:40:27.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Model\\Order.cs",
+              "ToolTip": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Model\\Order.cs",
+              "RelativeToolTip": "TheFirstTask\\Model\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:36:47.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Model\\Category.cs",
+              "ToolTip": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Model\\Category.cs",
+              "RelativeToolTip": "TheFirstTask\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:36:44.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TheFirstTask\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:28:45.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TheFirstTask\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAqwHEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:27:58.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\WORKSPACE\\Th\u1EF1c t\u1EADp\\FirstTask\\TheFirstTask\\TheFirstTask\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TheFirstTask\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:37:34.333Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
