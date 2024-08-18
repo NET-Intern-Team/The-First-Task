@@ -1,0 +1,2 @@
+- Repo trước bị lỗi do vấn đề sử dụng branch
+- Các thành viên đều hoàn thành đầy đủ nhiệm vụ
