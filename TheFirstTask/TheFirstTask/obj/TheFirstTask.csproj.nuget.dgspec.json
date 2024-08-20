@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {}
+    "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {}
   },
   "projects": {
-    "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {
+    "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
+        "projectUniqueName": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
         "projectName": "TheFirstTask",
-        "projectPath": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
+        "projectPath": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
         "packagesPath": "C:\\Users\\THANG\\.nuget\\packages\\",
-        "outputPath": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\obj\\",
+        "outputPath": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\THANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,11 +46,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.AspNetCore.JsonPatch": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
             },
@@ -63,6 +77,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

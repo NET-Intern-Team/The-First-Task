@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.JsonPatch;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TheFirstTask.Data;
@@ -42,6 +43,7 @@ namespace TheFirstTask.Controllers
         }
 
         [HttpPost(Name = "CreateOrder")]
+        [Authorize(Roles = "admin")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
@@ -61,6 +63,7 @@ namespace TheFirstTask.Controllers
         }
 
         [HttpDelete("{id:int}", Name = "DeleteOrder")]
+        [Authorize(Roles = "admin")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -83,6 +86,7 @@ namespace TheFirstTask.Controllers
         }
 
         [HttpPut("{id:int}", Name = "UpdateOrder")]
+        [Authorize(Roles = "admin")]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         public async Task<IActionResult> UpdateOrder(int id, [FromBody] Order order)
@@ -112,6 +116,7 @@ namespace TheFirstTask.Controllers
         }
 
         [HttpPatch("{id:int}", Name = "UpdatePartialOrder")]
+        [Authorize(Roles = "admin")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]

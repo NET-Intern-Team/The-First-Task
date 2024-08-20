@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TheFirstTask.Data;
 using TheFirstTask.Model;
@@ -44,6 +45,7 @@ namespace TheFirstTask.Controllers
         }
 
         [HttpPost(Name = "CreateProduct")]
+        [Authorize(Roles = "admin")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
@@ -68,6 +70,7 @@ namespace TheFirstTask.Controllers
         }
 
         [HttpDelete("{id:int}", Name = "DeleteProduct")]
+        [Authorize(Roles = "admin")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -89,6 +92,7 @@ namespace TheFirstTask.Controllers
         }
 
         [HttpPut("{id:int}", Name = "UpdateProduct")]
+        [Authorize(Roles = "admin")]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         public async Task<IActionResult> UpdateVilla(int id, [FromBody] Product product)

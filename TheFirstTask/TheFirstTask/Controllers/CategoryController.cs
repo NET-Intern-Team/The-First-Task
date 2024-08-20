@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TheFirstTask.Data;
 using TheFirstTask.Model;
@@ -40,6 +41,7 @@ namespace TheFirstTask.Controllers
         }
 
         [HttpPost(Name = "CreateCategory")]
+        [Authorize(Roles = "admin")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
@@ -63,8 +65,8 @@ namespace TheFirstTask.Controllers
             return CreatedAtRoute("GetCategory", new { id = category.Id }, category);
         }
 
-
         [HttpDelete("{id:int}", Name = "DeleteCategory")]
+        [Authorize(Roles = "admin")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -87,6 +89,7 @@ namespace TheFirstTask.Controllers
         }
 
         [HttpPut("{id:int}", Name = "UpdateCategory")]
+        [Authorize(Roles = "admin")]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         public async Task<IActionResult> UpdateVilla(int id, [FromBody]Category category)

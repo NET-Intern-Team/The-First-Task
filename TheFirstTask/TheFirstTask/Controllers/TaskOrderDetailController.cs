@@ -3,9 +3,11 @@ using TheFirstTask.Data;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.EntityFrameworkCore;
 using TheFirstTask.Model;
+using Microsoft.AspNetCore.Authorization;
 
 namespace TheFirstTask.Controllers
 {
+    [Authorize(Roles = "LineLeader")]
     [Route("api/TaskOrderDetail")]
     [ApiController]
     public class TaskOrderDetailController : ControllerBase
