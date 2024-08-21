@@ -19,9 +19,12 @@ namespace TheFirstTask.Controllers
 
         [HttpGet(Name = "GetProducts")]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        public async Task<ActionResult<ICollection<Product>>> GetProducts()
+        public async Task<ActionResult<ICollection<Product>>> GetProducts(int page = 1, int pageSize = 10)
         {
-            return Ok(_dbContext.Products.ToList());
+            var totalCount = await _dbContext.Products.CountAsync();
+            var totalPages = (int)Math.Ceiling((decimal)totalCount / pageSize);
+            var productsPerPage = await _dbContext.Products.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
+            return Ok(productsPerPage);
         }
 
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q/Nau/b3vy0=",
+  "dgSpecHash": "/JeP7oR0uSg=",
   "success": true,
-  "projectFilePath": "D:\\IT_DATA\\Working\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
+  "projectFilePath": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\THANG\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\THANG\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
