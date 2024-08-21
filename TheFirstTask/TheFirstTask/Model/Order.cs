@@ -13,7 +13,5 @@ namespace TheFirstTask.Model
         [Required]
         public long Quantity { get; set; }
 
-        public virtual Product Product { get; set; }
-
     }
 }

@@ -59,7 +59,7 @@ namespace TheFirstTask.Controllers
                 ModelState.AddModelError("ErrorNameDuplicate", "Product name already existed");
                 return BadRequest(ModelState);
             }
-            if (product == null)
+            if (product == null || _dbContext.Categories.FirstOrDefault(s=> s.Id == product.CategoryId) == null)
             {
                 return BadRequest(product);
             }
@@ -100,7 +100,7 @@ namespace TheFirstTask.Controllers
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         public async Task<IActionResult> UpdateVilla(int id, [FromBody] Product product)
         {
-            if (product == null || id != product.Id)
+            if (product == null || id != product.Id || _dbContext.Categories.FirstOrDefault(s => s.Id == product.CategoryId) == null)
             {
                 return BadRequest();
             }

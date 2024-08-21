@@ -19,9 +19,12 @@ namespace TheFirstTask.Controllers
 
         [HttpGet(Name = "GetOrders")]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        public async Task<ActionResult<ICollection<Order>>> GetOrders()
+        public async Task<ActionResult<ICollection<Order>>> GetOrders(int page = 1, int pageSize = 10)
         {
-            return Ok(_dBcontext.Orders.ToList());
+            var totalCount = await _dBcontext.Orders.CountAsync();
+            var totalPages = (int)Math.Ceiling((decimal)totalCount / pageSize);
+            var ordersPerPage = await _dBcontext.Orders.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
+            return Ok(ordersPerPage);
         }
 
         [HttpGet("{id:int}", Name = "GetOrder")]
@@ -49,7 +52,7 @@ namespace TheFirstTask.Controllers
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult<Order>> CreateOrder([FromBody] Order order)
         {
-            if (order == null)
+            if (order == null || _dBcontext.Products.FirstOrDefault(s => s.Id == order.ProductId) == null)
             {
                 return BadRequest(order);
             }
@@ -91,7 +94,7 @@ namespace TheFirstTask.Controllers
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         public async Task<IActionResult> UpdateOrder(int id, [FromBody] Order order)
         {
-            if (order == null || id != order.Id)
+            if (order == null || id != order.Id || _dBcontext.Products.FirstOrDefault(s => s.Id == order.ProductId) == null)
             {
                 return BadRequest();
             }

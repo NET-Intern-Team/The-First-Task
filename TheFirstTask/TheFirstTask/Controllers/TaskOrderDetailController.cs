@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.EntityFrameworkCore;
 using TheFirstTask.Model;
 using Microsoft.AspNetCore.Authorization;
+using System.Drawing.Printing;
 
 namespace TheFirstTask.Controllers
 {
@@ -20,9 +21,12 @@ namespace TheFirstTask.Controllers
 
         [HttpGet(Name = "GetTaskOrderDetails")]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        public async Task<ActionResult<ICollection<TaskOrderDetail>>> GetTaskOrderDetails()
+        public async Task<ActionResult<ICollection<TaskOrderDetail>>> GetTaskOrderDetails(int page = 1, int pageSize = 10)
         {
-            return Ok(_dBcontext.TaskOrderDetails.ToList());
+            var totalCount = await _dBcontext.TaskOrderDetails.CountAsync();
+            var totalPages = (int)Math.Ceiling((decimal)totalCount / pageSize);
+            var taskorderdetailsPerPage = await _dBcontext.TaskOrderDetails.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
+            return Ok(taskorderdetailsPerPage);
         }
 
         [HttpGet("{id:int}", Name = "GetTaskOrderDetail")]
@@ -49,7 +53,9 @@ namespace TheFirstTask.Controllers
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult<TaskOrderDetail>> CreateTaskOrderDetail([FromBody] TaskOrderDetail taskOrderDetail)
         {
-            if (taskOrderDetail == null)
+            var chkIdTask = await _dBcontext.TaskOrders.FirstOrDefaultAsync(s => s.Id == taskOrderDetail.TaskId);
+            var chkIdOrder = await _dBcontext.Orders.FirstOrDefaultAsync(s => s.Id == taskOrderDetail.OrderId);
+            if (taskOrderDetail == null || chkIdOrder == null || chkIdTask == null)
             {
                 return BadRequest(taskOrderDetail);
             }
@@ -87,7 +93,9 @@ namespace TheFirstTask.Controllers
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         public async Task<IActionResult> UpdateTaskOrderDetail(int id, [FromBody] TaskOrderDetail taskOrderDetail)
         {
-            if (taskOrderDetail == null || id != taskOrderDetail.Id)
+            var chkIdTask = await _dBcontext.TaskOrders.FirstOrDefaultAsync(s => s.Id == taskOrderDetail.TaskId);
+            var chkIdOrder = await _dBcontext.Orders.FirstOrDefaultAsync(s => s.Id == taskOrderDetail.OrderId);
+            if (taskOrderDetail == null || id != taskOrderDetail.Id || chkIdTask == null || chkIdOrder == null)
             {
                 return BadRequest();
             }

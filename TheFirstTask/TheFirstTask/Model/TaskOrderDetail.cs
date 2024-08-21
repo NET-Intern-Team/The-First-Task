@@ -12,7 +12,5 @@ namespace TheFirstTask.Model
         public int TaskId { get; set; }
         [Required]
         public int OrderId { get; set; }
-        public virtual Order Order { get; set; }
-        public virtual TaskOrder TaskOrder { get; set; }
     }
 }

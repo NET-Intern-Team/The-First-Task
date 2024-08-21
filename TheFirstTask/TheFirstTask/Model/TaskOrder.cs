@@ -10,5 +10,6 @@ namespace TheFirstTask.Model
         public int Id { get; set; }
         [Required]
         public string TaskContent { get; set; }
+
     }
 }

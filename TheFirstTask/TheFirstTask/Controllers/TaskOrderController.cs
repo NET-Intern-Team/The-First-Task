@@ -3,6 +3,7 @@ using TheFirstTask.Data;
 using Microsoft.EntityFrameworkCore;
 using TheFirstTask.Model;
 using Microsoft.AspNetCore.Authorization;
+using System.Drawing.Printing;
 
 namespace TheFirstTask.Controllers
 {
@@ -18,9 +19,12 @@ namespace TheFirstTask.Controllers
 
         [HttpGet(Name = "GetTaskOrders")]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        public async Task<ActionResult<ICollection<TaskOrder>>> GetTaskOrders()
+        public async Task<ActionResult<ICollection<TaskOrder>>> GetTaskOrders(int page = 1, int pageSize = 10)
         {
-            return Ok(_dbContext.TaskOrders.ToList());
+            var totalCount = await _dbContext.TaskOrders.CountAsync();
+            var totalPages = (int)Math.Ceiling((decimal)totalCount / pageSize);
+            var taskordersPerPage = await _dbContext.TaskOrders.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
+            return Ok(taskordersPerPage);
         }
 
         [HttpGet("{id:int}", Name = "GetTaskOrder")]

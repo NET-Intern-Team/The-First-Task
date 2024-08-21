@@ -17,9 +17,12 @@ namespace TheFirstTask.Controllers
         }
         [HttpGet(Name = "GetCategories")]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        public async Task<ActionResult<ICollection<Category>>> GetCategories()
+        public async Task<ActionResult<ICollection<Category>>> GetCategories(int page = 1, int pageSize = 10)
         {
-            return Ok(_dBcontext.Categories.ToList());
+            var totalCount = await _dBcontext.Categories.CountAsync();
+            var totalPages = (int)Math.Ceiling((decimal)totalCount / pageSize);
+            var categoriesPerPage = await _dBcontext.Categories.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
+            return Ok(categoriesPerPage);
         }
 
         [HttpGet("{id:int}", Name = "GetCategory")]
