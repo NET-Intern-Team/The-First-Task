@@ -1,12 +1,398 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\migrations\\20240821141018_changecodefirstdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\migrations\\20240821141018_changecodefirstdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\migrations\\20240821140558_changecodefirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\migrations\\20240821140558_changecodefirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\migrations\\20240817124155_addtaskorderandtaskorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\migrations\\20240817124155_addtaskorderandtaskorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\migrations\\20240815144509_firstdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\migrations\\20240815144509_firstdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\model\\taskorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\taskorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\model\\taskorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\taskorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\controllers\\taskorderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\taskorderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\controllers\\taskordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\taskordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|c:\\users\\phamv\\onedrive\\m\u00E1y t\u00EDnh\\amazingtech\\new folder (2)\\thefirsttask\\thefirsttask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C5277F3-0E60-45B9-92F0-FD5D98C8826D}|TheFirstTask\\TheFirstTask.csproj|solutionrelative:thefirsttask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240815144509_firstDB.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Migrations\\20240815144509_firstDB.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Migrations\\20240815144509_firstDB.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Migrations\\20240815144509_firstDB.cs",
+              "RelativeToolTip": "TheFirstTask\\Migrations\\20240815144509_firstDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:08:14.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240817124155_AddTaskOrderAndTaskOrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Migrations\\20240817124155_AddTaskOrderAndTaskOrderDetail.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Migrations\\20240817124155_AddTaskOrderAndTaskOrderDetail.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Migrations\\20240817124155_AddTaskOrderAndTaskOrderDetail.cs",
+              "RelativeToolTip": "TheFirstTask\\Migrations\\20240817124155_AddTaskOrderAndTaskOrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:08:24.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240821140558_ChangeCodeFirst.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Migrations\\20240821140558_ChangeCodeFirst.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Migrations\\20240821140558_ChangeCodeFirst.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Migrations\\20240821140558_ChangeCodeFirst.cs",
+              "RelativeToolTip": "TheFirstTask\\Migrations\\20240821140558_ChangeCodeFirst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:04:17.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240821141018_ChangeCodeFirstDb.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Migrations\\20240821141018_ChangeCodeFirstDb.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Migrations\\20240821141018_ChangeCodeFirstDb.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Migrations\\20240821141018_ChangeCodeFirstDb.cs",
+              "RelativeToolTip": "TheFirstTask\\Migrations\\20240821141018_ChangeCodeFirstDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:04:19.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeToolTip": "TheFirstTask\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:04:19.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TheFirstTask\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:43:45.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\UserRole.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Model\\UserRole.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\UserRole.cs",
+              "RelativeToolTip": "TheFirstTask\\Model\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:06:46.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskOrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\TaskOrderDetail.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Model\\TaskOrderDetail.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\TaskOrderDetail.cs",
+              "RelativeToolTip": "TheFirstTask\\Model\\TaskOrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:06:41.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskOrder.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\TaskOrder.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Model\\TaskOrder.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\TaskOrder.cs",
+              "RelativeToolTip": "TheFirstTask\\Model\\TaskOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:06:34.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Model\\Register.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\Register.cs",
+              "RelativeToolTip": "TheFirstTask\\Model\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:06:33.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\Product.cs",
+              "RelativeToolTip": "TheFirstTask\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:06:18.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Model\\Login.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\Login.cs",
+              "RelativeToolTip": "TheFirstTask\\Model\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:04:41.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\Order.cs",
+              "RelativeToolTip": "TheFirstTask\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:04:56.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Model\\Category.cs",
+              "RelativeToolTip": "TheFirstTask\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:04:25.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\TaskOrderController.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\TaskOrderController.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\TaskOrderController.cs",
+              "RelativeToolTip": "TheFirstTask\\Controllers\\TaskOrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:55:16.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TheFirstTask\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:55:12.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TheFirstTask\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:46:22.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskOrderDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "RelativeToolTip": "TheFirstTask\\Controllers\\TaskOrderDetailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:55:22.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "TheFirstTask\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:03:09.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Data\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "TheFirstTask\\Data\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:03:49.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TheFirstTask\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TheFirstTask\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:43:59.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\appsettings.json",
+              "RelativeDocumentMoniker": "TheFirstTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\phamv\\OneDrive\\M\u00E1y t\u00EDnh\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\appsettings.json",
+              "RelativeToolTip": "TheFirstTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T03:47:40.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

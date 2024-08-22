@@ -5,11 +5,13 @@ namespace TheFirstTask.Model
 {
     public class Category
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        // Thuộc tính Id là khóa chính của bảng Category
+        [Key] // Xác định đây là khóa chính
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // Xác định ID được tạo tự động
         public int Id { get; set; }
-        public string? Name { get; set; }
-        public DateTime CreatedDate { get; set; }
 
+        public string? Name { get; set; }
+
+        public DateTime CreatedDate { get; set; }
     }
 }

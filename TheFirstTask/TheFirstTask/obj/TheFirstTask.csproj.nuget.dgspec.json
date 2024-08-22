@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {}
+    "C:\\Users\\phamv\\OneDrive\\Máy tính\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {}
   },
   "projects": {
-    "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {
+    "C:\\Users\\phamv\\OneDrive\\Máy tính\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
+        "projectUniqueName": "C:\\Users\\phamv\\OneDrive\\Máy tính\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
         "projectName": "TheFirstTask",
-        "projectPath": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
-        "packagesPath": "C:\\Users\\THANG\\.nuget\\packages\\",
-        "outputPath": "D:\\IT_DATA\\Working\\Git Project\\The-First-Task\\TheFirstTask\\TheFirstTask\\obj\\",
+        "projectPath": "C:\\Users\\phamv\\OneDrive\\Máy tính\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\TheFirstTask.csproj",
+        "packagesPath": "C:\\Users\\phamv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phamv\\OneDrive\\Máy tính\\amazingtech\\New folder (2)\\TheFirstTask\\TheFirstTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\THANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phamv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
